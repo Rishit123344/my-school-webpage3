@@ -1,0 +1,31 @@
+h1{
+    color:rgb(190, 37, 10);
+}
+
+.header{
+    background-color:rgba(207, 123, 13, 0.87);
+    display:flex;
+    justify-content:space-evenly;
+    border-style: ridge;
+    border-radius: 100px;
+}
+.grid{
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-evenly ;
+}
+.footer{
+    display:flex ;
+    justify-content:flex-end ;
+}
+p,h2{
+    text-align:left;
+    text-shadow: 1px 1px;
+    letter-spacing:2px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color:rgba(150, 43, 43, 0.541);
+}
+
+
